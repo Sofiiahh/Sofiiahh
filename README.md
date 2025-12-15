@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="100%" src="https://raw.githubusercontent.com/Sofiiahh/Sofiiahh/output/github-snake-dark.svg" alt="snake gif" />
+
 
 <!--
 **Sofiiahh/Sofiiahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
